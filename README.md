@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am a backend web developer with an intermediate understanding of HTML/CSS, Java, and C/C++ currently attending Arizona State University.
+I am a web developer with an intermediate understanding of HTML/CSS/Javascript, Java, C/C++, Scheme, and Prolog, currently attending Arizona State University.
 
 * 🌍  I'm based in Tempe
 * ✉️  You can contact me at [maverickgm9@gmail.com](mailto:maverickgm9@gmail.com)
