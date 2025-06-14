@@ -8,7 +8,7 @@ I am a web developer with an intermediate understanding of HTML/CSS/Javascript, 
 
 * 🌍  I'm based in Tempe
 * ✉️  You can contact me at [maverickgm9@gmail.com](mailto:maverickgm9@gmail.com)
-* 🧠  I'm learning C/C++
+* 🧠  I'm learning C/C++ and Javascript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am an insane console R6 player, tell your friends!
 
